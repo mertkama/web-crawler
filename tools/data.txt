@@ -1,0 +1,6 @@
+İlan Bilgileri ==> [ İhale Kayıt No = 2022/394647    ||    Niteliği, Türü ve Miktarı = İHALE    ||    İşin Yapılacağı Yer = KAYSERİ    ||    İhale Türü = Yapım İşi]
+İlan Bilgileri ==> [ İhale Kayıt No = null    ||    Niteliği, Türü ve Miktarı = İHALE    ||    İşin Yapılacağı Yer = KAYSERİ    ||    İhale Türü = Mal Alımı]
+İlan Bilgileri ==> [ İhale Kayıt No = 2022/403720    ||    Niteliği, Türü ve Miktarı = İHALE    ||    İşin Yapılacağı Yer = KAYSERİ    ||    İhale Türü = Mal Alımı]
+İlan Bilgileri ==> [ İhale Kayıt No = null    ||    Niteliği, Türü ve Miktarı = null    ||    İşin Yapılacağı Yer = null    ||    İhale Türü = null]
+İlan Bilgileri ==> [ İhale Kayıt No = 2022/390409    ||    Niteliği, Türü ve Miktarı = İHALE    ||    İşin Yapılacağı Yer = GİRESUN    ||    İhale Türü = Yapım İşi]
+İlan Bilgileri ==> [ İhale Kayıt No = 2022/258378    ||    Niteliği, Türü ve Miktarı = İHALE    ||    İşin Yapılacağı Yer = ERZURUM    ||    İhale Türü = Kiralama ve Hizmet Alımı]
