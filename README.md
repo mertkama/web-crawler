@@ -49,3 +49,7 @@ Junit kurulumu yapılmış ve maven plugins e eklenmiş.
 
 ![image](https://user-images.githubusercontent.com/97520268/164814900-14a8327d-7d14-4336-ad95-a47155dc8e5e.png)
 
+
+![image](https://user-images.githubusercontent.com/97520268/164814993-aaaa6d31-a649-444d-91dd-919c2763733d.png)
+
+
