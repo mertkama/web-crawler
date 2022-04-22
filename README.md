@@ -46,3 +46,6 @@ selenium 4.1.3 kullanılmış.
 bu proje Linux işletim sisteminde IntellijIdea programında test edilmiştir.
 
 Junit kurulumu yapılmış ve maven plugins e eklenmiş.
+
+![image](https://user-images.githubusercontent.com/97520268/164814900-14a8327d-7d14-4336-ad95-a47155dc8e5e.png)
+
