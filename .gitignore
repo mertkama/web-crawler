@@ -1,2 +1,15 @@
-# Project exclude paths
-/target/
+target
+.classpath
+.settings
+.project
+**/.gitignore
+
+# Ignore IntelliJ IDEA artifacts
+*.iml
+.idea
+
+# Ignore Netbeans config files
+nbactions.xml
+
+# Ignore OSX system files
+.DS_Store
