@@ -11,7 +11,7 @@
 
 •            İhale Türü
 
-Text dosyasına yazdılacaktır.
+Text dosyasına yazdıracaktır.
 
 
 ![image](https://user-images.githubusercontent.com/97520268/164814245-de1c1964-991f-4021-b7f0-1fcb7c615e5a.png)
